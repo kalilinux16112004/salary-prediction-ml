@@ -61,3 +61,39 @@ ML_Project/
 ├── README.md                # Project documentation
 ├── .gitignore               # Ignored files
 └── .venv/                   # Virtual environment (not pushed to GitHub)
+## 📊 Dataset Information
+
+**File:** `salaryprediction.csv`
+
+| Column | Description |
+|------|-------------|
+| Experience | Years of experience |
+| Salary | Corresponding salary |
+
+- Clean and small dataset  
+- Ideal for regression learning  
+- Used for training and predictions  
+
+---
+
+## 🧠 Machine Learning Model
+
+- **Algorithm:** Linear Regression  
+- **Learning Type:** Supervised Learning  
+- **Feature Variable:** Years of Experience  
+- **Target Variable:** Salary  
+
+### Why Linear Regression?
+- Simple and interpretable  
+- Excellent for understanding regression fundamentals  
+- Commonly used in salary prediction problems  
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/kalilinux16112004/salary-prediction-ml.git
+cd salary-prediction-ml
