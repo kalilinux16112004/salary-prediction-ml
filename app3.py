@@ -416,10 +416,7 @@ st.markdown("""
     <div class="hero-header">
         <h3>💎 Salary Predictor</h3>
         <p>AI-Powered Income Intelligence</p>
-        <div style='margin-top: 1.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;'>
-            <div style='background: rgba(255, 255, 255, 0.1); padding: 1rem 2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 16px rgba(0,0,0,0.3);'>
-                <h2 style='margin: 0; color: white;'>💵 $75
-        </div>
+        <div style='margin-top: 0.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;'>
     </div>
 """, unsafe_allow_html=True)
 
