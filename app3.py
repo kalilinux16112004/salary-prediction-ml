@@ -414,8 +414,8 @@ def load_model(model_name):
 # --- Hero Header ---
 st.markdown("""
     <div class="hero-header">
-        <h1>💎 Salary Predictor</h1>
-        <p>AI-Powered Income Intelligence with Premium Design</p>
+        <h3>Salary Predictor</h3>
+        <p>AI-Powered Income Intelligence</p>
         <div style='margin-top: 1.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;'>
             <div style='text-align: center;'>
                 <p style='font-size: 2.5rem; margin: 0;'>🎯</p>
