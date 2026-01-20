@@ -414,21 +414,11 @@ def load_model(model_name):
 # --- Hero Header ---
 st.markdown("""
     <div class="hero-header">
-        <h3>Salary Predictor</h3>
+        <h3>💎 Salary Predictor</h3>
         <p>AI-Powered Income Intelligence</p>
         <div style='margin-top: 1.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;'>
-            <div style='text-align: center;'>
-                <p style='font-size: 2.5rem; margin: 0;'>🎯</p>
-                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Accurate Predictions</p>
-            </div>
-            <div style='text-align: center;'>
-                <p style='font-size: 2.5rem; margin: 0;'>⚡</p>
-                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Instant Results</p>
-            </div>
-            <div style='text-align: center;'>
-                <p style='font-size: 2.5rem; margin: 0;'>🔒</p>
-                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Multiple Models</p>
-            </div>
+            <div style='background: rgba(255, 255, 255, 0.1); padding: 1rem 2rem; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 16px rgba(0,0,0,0.3);'>
+                <h2 style='margin: 0; color: white;'>💵 $75
         </div>
     </div>
 """, unsafe_allow_html=True)
