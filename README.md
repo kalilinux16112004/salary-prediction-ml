@@ -121,7 +121,7 @@ python -m venv .venv
 
 ### 3. Install Dependencies
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 
 ---
