@@ -416,6 +416,20 @@ st.markdown("""
     <div class="hero-header">
         <h1>💎 Salary Predictor</h1>
         <p>AI-Powered Income Intelligence with Premium Design</p>
+        <div style='margin-top: 1.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;'>
+            <div style='text-align: center;'>
+                <p style='font-size: 2.5rem; margin: 0;'>🎯</p>
+                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Accurate Predictions</p>
+            </div>
+            <div style='text-align: center;'>
+                <p style='font-size: 2.5rem; margin: 0;'>⚡</p>
+                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Instant Results</p>
+            </div>
+            <div style='text-align: center;'>
+                <p style='font-size: 2.5rem; margin: 0;'>🔒</p>
+                <p style='color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0.5rem 0 0 0;'>Multiple Models</p>
+            </div>
+        </div>
     </div>
 """, unsafe_allow_html=True)
 
